@@ -61,6 +61,8 @@ module.exports = async ({ getNamedAccounts, deployments }) => {
         await verify(fundMe.address, args)
     }
 
+    console.log("DeployerAddress:", deployer)
+
     console.log("-------------------------------------------------------")
 }
 
