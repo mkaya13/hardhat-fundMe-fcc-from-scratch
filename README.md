@@ -1,3 +1,7 @@
+## Getting Started
+
+To summarize the project, I used hardhat framework to compile, deploy, and test smart contracts written in Solidity. The deployment and tests were made in hardhat framework with javascript language. Thanks to hardhat, I compiled the smart contratcs written with Solidity. Furthermore, hardhat allows us to run a virtual blockchain and run mocks for more sophisticated testing process. 
+
 ## Patrick Collins and freeCodeCamp
 
 This project is inspired by https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=73744s lecture in youtube.
@@ -14,9 +18,6 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-## Getting Started
-
-To summarize the project, I used hardhat framework to compile, deploy, and test smart contracts written in Solidity. The deployment and tests were made in hardhat framework with javascript language. Thanks to hardhat, I compiled the smart contratcs written with Solidity. Furthermore, hardhat allows us to run a virtual blockchain and run mocks for more sophisticated testing process. 
 
 ## Languages
 
